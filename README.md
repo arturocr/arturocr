@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Web Tech Lead** and **Web Practice Lead** at [Gorilla Logic](https://gorillalogic.com), currently living in Costa Rica. 🇨🇷
+I'm a **Solutions Architect** and **Web Practice Lead** at [Gorilla Logic](https://gorillalogic.com), currently living in Costa Rica. 🇨🇷
 
 **JavaScript is my passion**, enjoying it a little bit more every single day for the last 11 years.
 
