@@ -1,6 +1,6 @@
 <div align="center">
   <div><img src="logo.svg" width="72" height="98" /></div>
-  <img src="header.svg" width="470" height="140" />
+  <img src="header.svg" width="470" height="100" />
 </div>
 
 ## Hi there 👋
