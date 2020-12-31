@@ -1,10 +1,15 @@
+<div align="center">
+  <div><img src="logo.svg" width="72" height="98" /></div>
+  <img src="header.svg" width="470" height="140" />
+</div>
+
 ## Hi there 👋
 
 I'm a **Solutions Architect** and **Web Practice Lead** at [Gorilla Logic](https://gorillalogic.com), currently living in Costa Rica. 🇨🇷
 
 **JavaScript is my passion**, enjoying it a little bit more every single day for the last 11 years.
 
-- 👨‍👩‍👧‍👦  Father of two.
+- 👨‍👩‍👧‍👦 Father of two.
 - ✌️ I’m looking to collaborate on Open Source.
 - 💬 Ask me about Web Development, parenting, mountain biking.
 - 📫 How to reach me: [info@arturocampos.dev](mailto:info@arturocampos.dev).
@@ -32,3 +37,4 @@ I'm a **Solutions Architect** and **Web Practice Lead** at [Gorilla Logic](https
 - [LinkedIn](https://www.linkedin.com/in/arturocr/)
 - [Facebook](https://www.facebook.com/arturo025)
 - [Telegram](https://t.me/arturocr)
+- [Blog](https://arturocampos.dev)
