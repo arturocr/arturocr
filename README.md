@@ -1,6 +1,12 @@
 <div align="center">
-  <div><img src="logo.svg" width="72" height="98" /></div>
-  <img src="header.svg" width="470" height="100" />
+  <div>
+    <a href="https://arturocampos.dev" target="_blank" rel="noopener noreferrer">
+      <img src="logo.svg" width="72" height="98" />
+    </a>
+  </div>
+  <a href="https://arturocampos.dev" target="_blank" rel="noopener noreferrer">
+    <img src="header.svg" width="470" height="100" />
+  </a>
 </div>
 
 ## Hi there 👋
