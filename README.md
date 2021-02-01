@@ -26,7 +26,7 @@ I'm a **Solutions Architect** and **Web Practice Lead** at [Gorilla Logic](https
 
 ## Little side projects and Open Source contributions
 
-- 🧮 [Calculadora Salarial Costa Rica](https://arturocr.com/calculadora-deducciones/) 🇨🇷
+- 🧮 [Calculadora Salarial Costa Rica](https://arturocampos.dev/es/projects/tax-calculator-crc) 🇨🇷
 - 🔎 [Transparencia Costa Rica](https://transparencia-costa-rica.vercel.app/) 🇨🇷
 - ⛓ [EOS Rate](https://github.com/eoscostarica/eos-rate)
 
