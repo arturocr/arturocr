@@ -11,7 +11,7 @@
 
 ## Hi there 👋
 
-I'm a **Solutions Architect** and **Web Practice Lead** at [Gorilla Logic](https://gorillalogic.com), currently living in Costa Rica. 🇨🇷
+I'm a **Principal Software Engineer** at [Parsley Health](https://parsleyhealth.com), currently living in Costa Rica. 🇨🇷
 
 **JavaScript is my passion**, enjoying it a little bit more every single day for the last 11 years.
 
@@ -32,7 +32,8 @@ I'm a **Solutions Architect** and **Web Practice Lead** at [Gorilla Logic](https
 
 ## Companies I have worked with
 
-- **[Gorilla Logic](https://gorillalogic.com)**.
+- **[Parsley Health](https://parsleyhealth.com)**.
+- [Gorilla Logic](https://gorillalogic.com).
 - [Edify Software Consulting](https://www.edify.cr/).
 - [avVenta Worldwide](https://www.accenture.com/cr-en).
 - [Grupo Interfaz](https://interfaz.io/).
