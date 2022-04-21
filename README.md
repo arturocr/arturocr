@@ -11,9 +11,9 @@
 
 ## Hi there 👋
 
-I'm a **Principal Software Engineer** at [Parsley Health](https://parsleyhealth.com), currently living in Costa Rica. 🇨🇷
+I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 
-**JavaScript is my passion**, enjoying it a little bit more every single day for the last 11 years.
+**JavaScript is my passion**, enjoying it a little bit more every single day for the last 12 years.
 
 - 👨‍👩‍👧‍👦 Father of two.
 - ✌️ I’m looking to collaborate on Open Source.
@@ -32,7 +32,7 @@ I'm a **Principal Software Engineer** at [Parsley Health](https://parsleyhealth.
 
 ## Companies I have worked with
 
-- **[Parsley Health](https://parsleyhealth.com)**.
+- [Parsley Health](https://parsleyhealth.com).
 - [Gorilla Logic](https://gorillalogic.com).
 - [Edify Software Consulting](https://www.edify.cr/).
 - [avVenta Worldwide](https://www.accenture.com/cr-en).
