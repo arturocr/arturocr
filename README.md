@@ -16,11 +16,10 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 **JavaScript is my passion**, enjoying it a little bit more every single day for the last 12 years.
 
 - 👨‍👩‍👧‍👦 Father of two.
-- ✌️ I’m looking to collaborate on Open Source.
 - 💬 Ask me about Web Development, parenting, mountain biking.
 - 📫 How to reach me: [info@arturocampos.dev](mailto:info@arturocampos.dev).
 - 👨‍💻 Pronouns: he/him.
-- 🚵‍♂️ Fun fact: I enjoy of mountain biking and disassembling and assembling back things.
+- 🚵‍♂️ Fun fact: I enjoy of cycling and disassembling and assembling back things.
 
 🖋 Take a look at [my resume](https://resume.arturocampos.dev/).
 
@@ -31,7 +30,7 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 - ⛓ [EOS Rate](https://github.com/eoscostarica/eos-rate)
 
 ## Companies I have worked with
-
+- **[Remi](https://www.remilabs.xyz/)**.
 - [Parsley Health](https://parsleyhealth.com).
 - [Gorilla Logic](https://gorillalogic.com).
 - [Edify Software Consulting](https://www.edify.cr/).
