@@ -30,7 +30,9 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 - ⛓ [EOS Rate](https://github.com/eoscostarica/eos-rate)
 
 ## Companies I have worked with
-- **[Remi](https://www.remilabs.xyz/)**.
+- __You can be the next one, [contact me](mailto:info@arturocampos.dev)__.
+- ...
+- [Remi Labs](https://www.remilabs.xyz/).
 - [Parsley Health](https://parsleyhealth.com).
 - [Gorilla Logic](https://gorillalogic.com).
 - [Edify Software Consulting](https://www.edify.cr/).
