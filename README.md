@@ -13,7 +13,7 @@
 
 I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 
-**JavaScript is my passion**, enjoying it a little bit more every single day for the last 12 years.
+**JavaScript is my passion**, enjoying it a little bit more every single day for the last 16 years.
 
 - 👨‍👩‍👧‍👦 Father of two.
 - 💬 Ask me about Web Development, parenting, mountain biking.
@@ -31,7 +31,7 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 
 ## Companies I have worked with
 - __You can be the next one, [contact me](mailto:info@arturocampos.dev)__.
-- ...
+- [Plato Systems](https://plato.systems/)
 - [Remi Labs](https://www.remilabs.xyz/).
 - [Parsley Health](https://parsleyhealth.com).
 - [Gorilla Logic](https://gorillalogic.com).
