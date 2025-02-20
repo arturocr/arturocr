@@ -31,7 +31,7 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 
 ## Companies I have worked with
 - __You can be the next one, [contact me](mailto:info@arturocampos.dev)__.
-- [Plato Systems](https://plato.systems/)
+- [Plato Systems](https://plato.systems/).
 - [Remi Labs](https://www.remilabs.xyz/).
 - [Parsley Health](https://parsleyhealth.com).
 - [Gorilla Logic](https://gorillalogic.com).
