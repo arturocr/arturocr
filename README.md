@@ -11,15 +11,15 @@
 
 ## Hi there 👋
 
-I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
+I'm a **Front-End Architect**, currently residing in Costa Rica. 🇨🇷
 
-**JavaScript is my passion**, enjoying it a little bit more every single day for the last 16 years.
+**JavaScript is my passion**, and I enjoy it a little bit more every single day for the last 16 years.
 
 - 👨‍👩‍👧‍👦 Father of two.
-- 💬 Ask me about Web Development, parenting, mountain biking.
+- 💬 Ask me about Web Development, parenting, and mountain biking.
 - 📫 How to reach me: [info@arturocampos.dev](mailto:info@arturocampos.dev).
 - 👨‍💻 Pronouns: he/him.
-- 🚵‍♂️ Fun fact: I enjoy of cycling and disassembling and assembling back things.
+- 🚵‍♂️ Fun fact: I enjoy cycling and disassembling and assembling things.
 
 🖋 Take a look at [my resume](https://resume.arturocampos.dev/).
 
@@ -31,6 +31,7 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 
 ## Companies I have worked with
 - __You can be the next one, [contact me](mailto:info@arturocampos.dev)__.
+- [Ribbon Financial](https://www.trustribbon.com/).
 - [Plato Systems](https://plato.systems/).
 - [Remi Labs](https://www.remilabs.xyz/).
 - [Parsley Health](https://parsleyhealth.com).
@@ -41,7 +42,7 @@ I'm a **Front-End Architect**, currently living in Costa Rica. 🇨🇷
 
 ## Where you can find me
 
-- [Twitter](https://twitter.com/arturocr)
+- [X](https://x.com/arturocr)
 - [LinkedIn](https://www.linkedin.com/in/arturocr/)
 - [Facebook](https://www.facebook.com/arturo025)
 - [Telegram](https://t.me/arturocr)
